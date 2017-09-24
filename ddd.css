@@ -1,0 +1,27 @@
+﻿@font-face{font-family:'FontAwesome';src:url("//static.tutsplus.com/assets/fontawesome-webfont-5c32fe2480d6b4332ee23cf1768e607a.eot?v=4.3.0");src:url("//static.tutsplus.com/assets/fontawesome-webfont-5c32fe2480d6b4332ee23cf1768e607a.eot?#iefix&v=4.3.0") format("embedded-opentype"),url("//static.tutsplus.com/assets/fontawesome-webfont-e872496cd5dd6d9ea28c7442a0b842fe.woff2?v=4.3.0") format("woff2"),url("//static.tutsplus.com/assets/fontawesome-webfont-af626b2daf23d229ba437e3d06b98c25.woff?v=4.3.0") format("woff"),url("//static.tutsplus.com/assets/fontawesome-webfont-253329aa6b42eaacdf3f72b53cf312db.ttf?v=4.3.0") format("truetype"),url("//static.tutsplus.com/assets/fontawesome-webfont-881df9c43b934fef7a5fbfc544b9fed7.svg?v=4.3.0#fontawesomeregular") format("svg");font-weight:normal;font-style:normal}
+.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0)}
+.fa-stack-1x{line-height:inherit}
+.fa-inverse{color:#fff}
+.fa-home:before{content:"\f015"}
+.fa-user:before{content:"\f007"}
+.fa-google-plus:before{content:"\f0d5"}
+.fa-pinterest-p:before{content:"\f231"}
+.fa-whatsapp:before{content:"\f232"}
+.fa-facebook:before{content:"\f09a"}
+.fa-twitter:before{content:"\f099"}
+.fa-close:before{content:"\f00d"}
+.fa-users:before{content:"\f0c0"}
+.fa-calendar-o:before{content:"\f133"}
+.fa-comments-o:before{content:"\f0e6"}
+.fa-arrow-up:before{content:"\f062"}
+.fa-bell:before{content:"\f0f3"}
+.fa-linkedin:before{content:"\f0e1"}
+.fa-whatsapp:before{content:"\f232";}
+.fa-envelope-o:before{content:"\f003"}
+.fa-tags:before{content:"\f02c"}
+.fa-tag:before{content:"\f02b"}
+.fa-code:before{content:"\f121"}
+.fa-search:before{content:"\f002"}
+.fa-minus:before{content:"\f068"}
+.fa-plus:before{content:"\f067"}
+.fa-caret-down:before{content:"\f0d7"}
